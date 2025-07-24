@@ -1,0 +1,5 @@
+windows-curses
+psutil
+flask
+websockets
+requests

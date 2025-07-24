@@ -1,0 +1,14 @@
+2025-07-24 13:32:24,713 - INFO - Initializing DeviceInfoCollector
+2025-07-24 13:32:24,917 - INFO - Getting serial number for OS: windows
+2025-07-24 13:32:25,268 - INFO - Getting installed software for OS: windows
+2025-07-24 13:32:25,268 - INFO - Getting Windows installed software
+2025-07-24 13:32:26,954 - INFO - Initializing DeviceInfoCollector
+2025-07-24 13:32:27,109 - INFO - Getting serial number for OS: windows
+2025-07-24 13:32:27,290 - INFO - Getting installed software for OS: windows
+2025-07-24 13:32:27,290 - INFO - Getting Windows installed software
+2025-07-24 13:32:31,479 - INFO - Found 426 installed Windows applications
+2025-07-24 13:32:31,492 - INFO - Getting system info for OS: windows
+2025-07-24 13:32:31,875 - INFO - Getting system info for OS: windows
+2025-07-24 13:32:35,880 - INFO - Device information collected successfully
+2025-07-24 13:32:35,881 - INFO - Successfully converted device info to JSON
+2025-07-24 13:32:35,888 - INFO - Successfully saved device info to device_info.json
